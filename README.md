@@ -1,11 +1,9 @@
-# Template: Robot Framework - Minimal
+# Bot Login using test case from Automation Anywhere
 
-This is the simplest template to start from.
+This is a simple bot that successfully fills in a login form
 
-- Get started from a simple task template in `tasks.robot`.
-  - Uses [Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework/basics) syntax.
-- You can configure your robot `robot.yaml`.
-- You can configure dependencies in `conda.yaml`.
+- Uses [Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework/basics) syntax.
+- [Link to the Automation Anywhere Challenge Site](https://community.automationanywhere.com/developer-challenges-85011/challenge-pages-85136#:~:text=,the%20scoring%20modal%20to%20appear)
 
 ## Learning materials
 
